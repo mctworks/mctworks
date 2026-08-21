@@ -8,7 +8,7 @@ This isn't just a "looking for work" profile, though I am open to new roles. I'm
  
 ## Current Projects
  
-**[MCT630.com](https://github.com/mctworks/mct630_v2.0)** — my portfolio and blog, born and heavily modified from a [workshop project](https://github.com/jamesqquick/makeswift-contentful-workshop) at [RenderATL 2025](https://renderatl.com), built on Next.js, React, and a Makeswift/Contentful foundation. Heavy on custom GSAP animation systems, page transitions, and theme-aware components. Live at [mct630.com](https://mct630.com).
+**[MCT630.com Ver 2.0](https://github.com/mctworks/mct630_v2.0)** — my portfolio and blog, born and heavily modified from a [workshop project](https://github.com/jamesqquick/makeswift-contentful-workshop) at [RenderATL 2025](https://renderatl.com), built on Next.js, React, and a Makeswift/Contentful foundation. Heavy on custom GSAP animation systems, page transitions, and theme-aware components. Live at [mct630.com](https://mct630.com).
  
 **[Wright Thinks It's Wrong](https://github.com/mctworks/SWTIWOOCMTG)** *(aka SWTIWOOCMTG)* — a from-scratch, native desktop reimagining of the classic property-trading board game, built in C# with Blazor and Photino. Reworked systems, an anti-capitalist streak, and a bunch of inside jokes only funny to Electric Six or Ween fans. Early and rough, but the core loop is playable. Read the full pitch in the repo.
  
