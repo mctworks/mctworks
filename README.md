@@ -12,14 +12,12 @@ This isn't just a "looking for work" profile, though I am open to new roles. I'm
  
 **[Steven Wright Thinks It's Wrong Only One Company Makes This Game](https://github.com/mctworks/SWTIWOOCMTG)** *(aka SWTIWOOCMTG)* — a from-scratch, native desktop reimagining of the classic property-trading board game, built in C# with Blazor and Photino. Reworked systems, an anti-capitalist streak, and a bunch of inside jokes only funny to Electric Six or Ween fans. Early and rough, but the core loop is playable. Read the full pitch in the repo.
  
-**[Studio Anni](https://github.com/mctworks/studio-anni)** — the site I've maintained since 2017 for Atlanta-area artist (and wife) Anni Thompson, built on PHP/MySQL with a custom inventory and checkout system. Live at [studioanni.com](https://studioanni.com), with a case study on my [portfolio](https://mct630.com/portfolio/studio-anni). A new version is in the earliest planning stages.
+**[Studio Anni](https://github.com/mctworks/studio-anni)** — the site I've maintained since 2017 for Atlanta-area artist (and wife) Anni Thompson, built on PHP/MySQL with a custom inventory and checkout system. Live at [studioanni.com](https://studioanni.com), with a case study on my [portfolio](https://mct630.com/portfolio/studio-anni). A [new version](https://github.com/mctworks/studio-anni-v2) aimed at correcting a lot of rough edges of the original project is in the earliest planning stages.
  
 ## Find me around
  
 I hang out in [torc.dev's](https://torc.dev) community Discord pretty regularly. If you're there too, say hi.
- 
-## Elsewhere
- 
-- Portfolio: [mct630.com](https://mct630.com)
+
+(I may or may not also be pretending to be an unhinged lunatic over on the ATProto-verse (e.g. Bluesky) at [@reverendcrush.com](https://northsky.app/profile/reverendcrush.com), but I'll probably refuse to acknowledge any of this if directly asked)
 - LinkedIn: [linkedin.com/in/MCT630](https://www.linkedin.com/in/MCT630)
 - Email: [mcthompson1981@gmail.com](mailto:mcthompson1981@gmail.com)
